@@ -1,4 +1,4 @@
-# neogCamp-lesson-1
+# neogCamp-lesson-1-proj-01
 A CLI app on "How Much Do You Know Me?", built using JavaScript and npm packages.
 
 ## Packages Used
