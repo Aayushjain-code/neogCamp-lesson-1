@@ -9,3 +9,5 @@ A CLI app on "How Much Do You Know Me?", built using JavaScript and npm packages
 3. Answer should start with Capital
 
 4. Your score will be increase automatically
+
+Live Project link:-https://replit.com/@Aayushjaincode/How-Much-Do-You-Know-Me?embed=1&output=1#index.js
